@@ -502,22 +502,78 @@
         "wire_width": 6
       },
       {
+        "clearance": 0.15,
+        "diff_pair_gap": 0.254,
+        "diff_pair_width": 0.1524,
+        "microvia_diameter": 0.6858,
+        "microvia_drill": 0.3302,
+        "name": "Address",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.127,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.15,
+        "diff_pair_gap": 0.254,
+        "diff_pair_width": 0.1524,
+        "microvia_diameter": 0.6858,
+        "microvia_drill": 0.3302,
+        "name": "Data",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.127,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "bus_width": 25,
+        "clearance": 0.15,
+        "diff_pair_gap": 0.254,
+        "diff_pair_width": 0.1524,
+        "microvia_diameter": 0.6858,
+        "microvia_drill": 0.3302,
+        "name": "GTL",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.127,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
         "bus_width": 12,
         "clearance": 0.2,
         "diff_pair_gap": 0.254,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.1524,
         "line_style": 0,
         "microvia_diameter": 0.6858,
         "microvia_drill": 0.3302,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.3,
+        "track_width": 0.4,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.254,
+        "diff_pair_width": 0.1524,
+        "microvia_diameter": 0.6858,
+        "microvia_drill": 0.3302,
+        "name": "VTT",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 3,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 1.27,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
       }
     ],
     "meta": {
@@ -528,11 +584,27 @@
     "netclass_patterns": [
       {
         "netclass": "Power",
-        "pattern": "VCC"
+        "pattern": "Vcore"
       },
       {
         "netclass": "Power",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "VTT"
+      },
+      {
+        "netclass": "Data",
+        "pattern": "/D*"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "VccL2"
+      },
+      {
+        "netclass": "Address",
+        "pattern": "/A*"
       }
     ]
   },

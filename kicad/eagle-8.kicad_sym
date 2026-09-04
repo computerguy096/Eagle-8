@@ -9044,7 +9044,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 40.64 0)
 				(length 5.08)
 				(name "A20M#"
@@ -9062,7 +9062,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 38.1 0)
 				(length 5.08)
 				(name "RESET#"
@@ -9080,7 +9080,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 35.56 0)
 				(length 5.08)
 				(name "IGNNE#"
@@ -9098,7 +9098,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 33.02 0)
 				(length 5.08)
 				(name "INIT#"
@@ -9116,7 +9116,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 30.48 0)
 				(length 5.08)
 				(name "LINT[0]/INTR"
@@ -9134,7 +9134,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 27.94 0)
 				(length 5.08)
 				(name "LINT[1]/NMI"
@@ -9170,7 +9170,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output clock
 				(at -17.78 22.86 0)
 				(length 5.08)
 				(name "PICCLK"
@@ -9224,7 +9224,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -17.78 15.24 0)
 				(length 5.08)
 				(name "PRDY#"
@@ -9242,7 +9242,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 12.7 0)
 				(length 5.08)
 				(name "PREQ#"
@@ -9278,7 +9278,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 7.62 0)
 				(length 5.08)
 				(name "RSP#"
@@ -9296,7 +9296,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -17.78 5.08 0)
 				(length 5.08)
 				(name "SLOTOCC#"
@@ -9314,7 +9314,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 2.54 0)
 				(length 5.08)
 				(name "SLP#"
@@ -9332,7 +9332,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 0 0)
 				(length 5.08)
 				(name "SMI#"
@@ -9350,7 +9350,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output clock
 				(at -17.78 -2.54 0)
 				(length 5.08)
 				(name "STPCLK#"
@@ -9368,7 +9368,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 -5.08 0)
 				(length 5.08)
 				(name "TCK"
@@ -9386,7 +9386,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 -7.62 0)
 				(length 5.08)
 				(name "FLUSH#"
@@ -9422,7 +9422,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -17.78 -12.7 0)
 				(length 5.08)
 				(name "IERR#"
@@ -9458,7 +9458,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at -17.78 -17.78 0)
 				(length 5.08)
 				(name "FERR#"
@@ -9476,7 +9476,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 -20.32 0)
 				(length 5.08)
 				(name "DEFER#"
@@ -9512,7 +9512,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 -25.4 0)
 				(length 5.08)
 				(name "TMS"
@@ -9530,7 +9530,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 -27.94 0)
 				(length 5.08)
 				(name "TRDY#"
@@ -9548,7 +9548,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 -30.48 0)
 				(length 5.08)
 				(name "TRST#"
@@ -9566,7 +9566,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 -33.02 0)
 				(length 5.08)
 				(name "EMI"
@@ -9584,7 +9584,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 -35.56 0)
 				(length 5.08)
 				(name "EMI"
@@ -9602,7 +9602,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 -38.1 0)
 				(length 5.08)
 				(name "EMI"
@@ -9620,7 +9620,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 -40.64 0)
 				(length 5.08)
 				(name "EMI"
@@ -9638,7 +9638,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at -17.78 -43.18 0)
 				(length 5.08)
 				(name "EMI"
@@ -9890,7 +9890,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 17.78 12.7 180)
 				(length 5.08)
 				(name "RS#[0]"
@@ -9908,7 +9908,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 17.78 10.16 180)
 				(length 5.08)
 				(name "RS#[1]"
@@ -9926,7 +9926,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 17.78 7.62 180)
 				(length 5.08)
 				(name "RS#[2]"
@@ -10034,7 +10034,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 17.78 -7.62 180)
 				(length 5.08)
 				(name "BR1#"
@@ -10052,7 +10052,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 17.78 -10.16 180)
 				(length 5.08)
 				(name "BPRI#"
@@ -10160,7 +10160,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 17.78 -25.4 180)
 				(length 5.08)
 				(name "THERMDP"
@@ -10178,7 +10178,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 17.78 -27.94 180)
 				(length 5.08)
 				(name "THERMDN"
@@ -10196,7 +10196,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 17.78 -30.48 180)
 				(length 5.08)
 				(name "THERMTRIP#"
@@ -10214,7 +10214,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 17.78 -33.02 180)
 				(length 5.08)
 				(name "TESTHI"
@@ -10232,7 +10232,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 17.78 -35.56 180)
 				(length 5.08)
 				(name "TDI"
@@ -10250,7 +10250,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 17.78 -38.1 180)
 				(length 5.08)
 				(name "TDO"
@@ -10268,7 +10268,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 17.78 -40.64 180)
 				(length 5.08)
 				(name "BSEL0"
@@ -10286,7 +10286,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 17.78 -43.18 180)
 				(length 5.08)
 				(name "BSEL1"
@@ -10304,7 +10304,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output clock
 				(at 17.78 -45.72 180)
 				(length 5.08)
 				(name "BCLK"
@@ -10487,7 +10487,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 17.78 180)
 				(length 5.08)
 				(name "VCC5"
@@ -10505,7 +10505,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 15.24 180)
 				(length 5.08)
 				(name "VCC_VTT"
@@ -10523,10 +10523,9 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 15.24 180)
 				(length 5.08)
-				(hide yes)
 				(name "VCC_VTT"
 					(effects
 						(font
@@ -10537,15 +10536,14 @@
 				(number "A3"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 15.24 180)
 				(length 5.08)
-				(hide yes)
 				(name "VCC_VTT"
 					(effects
 						(font
@@ -10556,15 +10554,14 @@
 				(number "B5"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 15.24 180)
 				(length 5.08)
-				(hide yes)
 				(name "VCC_VTT"
 					(effects
 						(font
@@ -10575,12 +10572,12 @@
 				(number "B9"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 12.7 180)
 				(length 5.08)
 				(name "VCC_L2"
@@ -10598,10 +10595,9 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 12.7 180)
 				(length 5.08)
-				(hide yes)
 				(name "VCC_L2"
 					(effects
 						(font
@@ -10612,15 +10608,14 @@
 				(number "B117"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 12.7 180)
 				(length 5.08)
-				(hide yes)
 				(name "VCC_L2"
 					(effects
 						(font
@@ -10631,12 +10626,12 @@
 				(number "B121"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
 				(name "VccP"
@@ -10654,10 +10649,9 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10668,15 +10662,14 @@
 				(number "B13"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10687,15 +10680,14 @@
 				(number "B17"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10706,15 +10698,14 @@
 				(number "B25"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10725,15 +10716,14 @@
 				(number "B29"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10744,15 +10734,14 @@
 				(number "B33"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10763,15 +10752,14 @@
 				(number "B37"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10782,15 +10770,14 @@
 				(number "B45"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10801,15 +10788,14 @@
 				(number "B49"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10820,15 +10806,14 @@
 				(number "B53"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10839,15 +10824,14 @@
 				(number "B57"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10858,15 +10842,14 @@
 				(number "B65"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10877,15 +10860,14 @@
 				(number "B69"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10896,15 +10878,14 @@
 				(number "B73"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10915,15 +10896,14 @@
 				(number "B77"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10934,15 +10914,14 @@
 				(number "B85"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10953,15 +10932,14 @@
 				(number "B89"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10972,15 +10950,14 @@
 				(number "B93"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VccP"
 					(effects
 						(font
@@ -10991,12 +10968,12 @@
 				(number "B97"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 16.51 7.62 180)
 				(length 5.08)
 				(name "PWRGOOD"
@@ -11014,7 +10991,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 16.51 5.08 180)
 				(length 5.08)
 				(name "VID[4]"
@@ -11032,7 +11009,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 16.51 2.54 180)
 				(length 5.08)
 				(name "VID[3]"
@@ -11050,7 +11027,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 16.51 0 180)
 				(length 5.08)
 				(name "VID[2]"
@@ -11068,7 +11045,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 16.51 -2.54 180)
 				(length 5.08)
 				(name "VID[1]"
@@ -11086,7 +11063,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 16.51 -5.08 180)
 				(length 5.08)
 				(name "VID[0]"
@@ -11104,7 +11081,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
 				(name "VSS"
@@ -11122,10 +11099,9 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11136,15 +11112,14 @@
 				(number "A102"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11155,15 +11130,14 @@
 				(number "A106"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11174,15 +11148,14 @@
 				(number "A110"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11193,15 +11166,14 @@
 				(number "A114"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11212,15 +11184,14 @@
 				(number "A118"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11231,15 +11202,14 @@
 				(number "A18"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11250,15 +11220,14 @@
 				(number "A2"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11269,15 +11238,14 @@
 				(number "A22"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11288,15 +11256,14 @@
 				(number "A26"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11307,15 +11274,14 @@
 				(number "A30"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11326,15 +11292,14 @@
 				(number "A34"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11345,15 +11310,14 @@
 				(number "A38"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11364,15 +11328,14 @@
 				(number "A42"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11383,15 +11346,14 @@
 				(number "A46"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11402,15 +11364,14 @@
 				(number "A50"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11421,15 +11382,14 @@
 				(number "A54"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11440,15 +11400,14 @@
 				(number "A58"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11459,15 +11418,14 @@
 				(number "A6"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11478,15 +11436,14 @@
 				(number "A62"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11497,15 +11454,14 @@
 				(number "A66"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11516,15 +11472,14 @@
 				(number "A70"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11535,15 +11490,14 @@
 				(number "A74"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11554,15 +11508,14 @@
 				(number "A78"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11573,15 +11526,14 @@
 				(number "A82"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11592,15 +11544,14 @@
 				(number "A86"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11611,15 +11562,14 @@
 				(number "A90"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11630,15 +11580,14 @@
 				(number "A94"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
 			)
-			(pin power_in line
+			(pin power_out line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(hide yes)
 				(name "VSS"
 					(effects
 						(font
@@ -11649,7 +11598,7 @@
 				(number "A98"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0 0)
 						)
 					)
 				)
