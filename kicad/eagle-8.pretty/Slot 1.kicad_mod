@@ -77,7 +77,7 @@
 		(uuid "ae58164b-64e8-44be-b9ad-244cf2e0f5b1")
 	)
 	(fp_line
-		(start -58.617 17.78)
+		(start -58.617 19.78)
 		(end -58.617 -32.92)
 		(stroke
 			(width 0.1)
@@ -87,8 +87,8 @@
 		(uuid "56cd43a7-86dc-445e-891e-adc9e746b859")
 	)
 	(fp_line
-		(start -58.617 17.78)
-		(end 16.51 17.78)
+		(start -58.617 19.78)
+		(end 16.51 19.78)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -117,8 +117,8 @@
 		(uuid "46f45ab8-fa51-45cf-8b3e-459159b45ded")
 	)
 	(fp_line
-		(start 16.51 17.78)
-		(end 16.51 8.7376)
+		(start 16.51 19.78)
+		(end 16.51 10.7376)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -127,8 +127,8 @@
 		(uuid "784a120b-3b3b-4b36-a4ad-306ff265bc3a")
 	)
 	(fp_line
-		(start 18.3896 17.78)
-		(end 18.3896 8.7376)
+		(start 18.3896 19.78)
+		(end 18.3896 10.7376)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -137,8 +137,8 @@
 		(uuid "32b3100d-218f-49a9-bc51-021452ae9b24")
 	)
 	(fp_line
-		(start 18.3896 17.78)
-		(end 68.523 17.78)
+		(start 18.3896 19.78)
+		(end 68.523 19.78)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -187,7 +187,7 @@
 		(uuid "e29f92a6-8e18-45f9-92eb-142fae938ef1")
 	)
 	(fp_line
-		(start 68.523 17.78)
+		(start 68.523 19.78)
 		(end 68.523 -32.92)
 		(stroke
 			(width 0.1)
@@ -208,9 +208,9 @@
 		(uuid "ae8fbb63-57df-4b98-99f8-bdc498c447d0")
 	)
 	(fp_arc
-		(start 16.51 8.7376)
-		(mid 17.449826 7.7978)
-		(end 18.3896 8.737652)
+		(start 16.51 10.7376)
+		(mid 17.449826 9.7978)
+		(end 18.3896 10.737652)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -230,8 +230,8 @@
 		(uuid "c512e6f7-d605-4011-a4df-b4f0bad660dd")
 	)
 	(fp_rect
-		(start -58.4962 8.4836)
-		(end 16.3576 17.653)
+		(start -58.4962 10.4836)
+		(end 16.3576 19.653)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -241,8 +241,8 @@
 		(uuid "271d070b-18fc-4c95-9a71-7f796f0c23e9")
 	)
 	(fp_rect
-		(start 18.5547 8.4836)
-		(end 68.3641 17.653)
+		(start 18.5547 10.4836)
+		(end 68.3641 19.653)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -252,7 +252,7 @@
 		(uuid "8a30c904-0cee-4d40-b985-652ea125ceec")
 	)
 	(pad "A1" connect custom
-		(at -57.04556 12.8946 180)
+		(at -57.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -272,7 +272,7 @@
 		(uuid "b8d95bc1-f2b1-45d1-9a39-30ddfbba89a2")
 	)
 	(pad "A2" connect custom
-		(at -56.04543 12.996)
+		(at -56.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -292,7 +292,7 @@
 		(uuid "a1fb1d69-5b18-4bf6-8f74-f5437b874b33")
 	)
 	(pad "A3" connect custom
-		(at -55.0453 12.8946 180)
+		(at -55.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -312,7 +312,7 @@
 		(uuid "19143108-348c-438c-a9a9-4ca0c00569ae")
 	)
 	(pad "A4" connect custom
-		(at -54.04543 12.996)
+		(at -54.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -332,7 +332,7 @@
 		(uuid "19dab208-e870-40d2-b10b-e0ab79917574")
 	)
 	(pad "A5" connect custom
-		(at -53.0453 12.8946 180)
+		(at -53.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -352,7 +352,7 @@
 		(uuid "947a9d8d-b10f-48bb-9069-241c72c731af")
 	)
 	(pad "A6" connect custom
-		(at -52.04543 12.996)
+		(at -52.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -372,7 +372,7 @@
 		(uuid "ba499f5b-2707-46db-8adc-28b10083d380")
 	)
 	(pad "A7" connect custom
-		(at -51.0453 12.8946 180)
+		(at -51.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -392,7 +392,7 @@
 		(uuid "0ba92c15-e3a9-4823-87a0-369076e7dc00")
 	)
 	(pad "A8" connect custom
-		(at -50.04543 12.996)
+		(at -50.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -412,7 +412,7 @@
 		(uuid "ce1c83dd-b913-4586-b60e-3a4e99156a42")
 	)
 	(pad "A9" connect custom
-		(at -49.0453 12.8946 180)
+		(at -49.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -432,7 +432,7 @@
 		(uuid "9a290477-659f-40d0-86f2-41441f59c3eb")
 	)
 	(pad "A10" connect custom
-		(at -48.04543 12.996)
+		(at -48.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -452,7 +452,7 @@
 		(uuid "dc9f9299-d38e-46fc-9421-4a202e86ba17")
 	)
 	(pad "A11" connect custom
-		(at -47.0453 12.8946 180)
+		(at -47.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -472,7 +472,7 @@
 		(uuid "880be016-fb14-49ff-9912-4310ea92b669")
 	)
 	(pad "A12" connect custom
-		(at -46.04543 12.996)
+		(at -46.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -492,7 +492,7 @@
 		(uuid "874e59f0-3927-4262-b296-e3c32962da8b")
 	)
 	(pad "A13" connect custom
-		(at -45.0453 12.8946 180)
+		(at -45.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -512,7 +512,7 @@
 		(uuid "0ac25de6-a6a6-45af-946c-a3ee6360fb2a")
 	)
 	(pad "A14" connect custom
-		(at -44.04543 12.996)
+		(at -44.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -532,7 +532,7 @@
 		(uuid "e877d035-3a36-45dc-9fc7-2806c22dca13")
 	)
 	(pad "A15" connect custom
-		(at -43.0453 12.8946 180)
+		(at -43.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -552,7 +552,7 @@
 		(uuid "06e6b2b3-a1cb-4d50-8b7f-b8fb30313c3a")
 	)
 	(pad "A16" connect custom
-		(at -42.04543 12.996)
+		(at -42.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -572,7 +572,7 @@
 		(uuid "e932ecfd-657b-41be-9d90-b626ac4ee940")
 	)
 	(pad "A17" connect custom
-		(at -41.0453 12.8946 180)
+		(at -41.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -592,7 +592,7 @@
 		(uuid "84e2bf1b-fff4-49e3-8d64-1695aa7b4b43")
 	)
 	(pad "A18" connect custom
-		(at -40.04543 12.996)
+		(at -40.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -612,7 +612,7 @@
 		(uuid "d12b81a9-3394-443e-8077-58ddbe8d0ace")
 	)
 	(pad "A19" connect custom
-		(at -39.0453 12.8946 180)
+		(at -39.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -632,7 +632,7 @@
 		(uuid "ca93627c-3499-4f5d-9ca4-7ade34f94d04")
 	)
 	(pad "A20" connect custom
-		(at -38.04543 12.996)
+		(at -38.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -652,7 +652,7 @@
 		(uuid "6802051f-036c-44e2-8224-bb03ea4f4023")
 	)
 	(pad "A21" connect custom
-		(at -37.0453 12.8946 180)
+		(at -37.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -672,7 +672,7 @@
 		(uuid "f028cf68-833c-4200-ab52-dfe58b92058f")
 	)
 	(pad "A22" connect custom
-		(at -36.04543 12.996)
+		(at -36.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -692,7 +692,7 @@
 		(uuid "877d0b66-a02d-4530-b26b-8c5cfc401da3")
 	)
 	(pad "A23" connect custom
-		(at -35.0453 12.8946 180)
+		(at -35.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -712,7 +712,7 @@
 		(uuid "08a4b2fe-4a57-43be-8f51-19eab21db42f")
 	)
 	(pad "A24" connect custom
-		(at -34.04543 12.996)
+		(at -34.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -732,7 +732,7 @@
 		(uuid "48618c59-9118-438e-9b11-da752a7858d4")
 	)
 	(pad "A25" connect custom
-		(at -33.0453 12.8946 180)
+		(at -33.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -752,7 +752,7 @@
 		(uuid "c4d1a705-58de-43f1-8204-23d568b2fcbc")
 	)
 	(pad "A26" connect custom
-		(at -32.04543 12.996)
+		(at -32.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -772,7 +772,7 @@
 		(uuid "c4ec3dc7-ad49-43a3-a7e1-ec62d9536b90")
 	)
 	(pad "A27" connect custom
-		(at -31.0453 12.8946 180)
+		(at -31.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -792,7 +792,7 @@
 		(uuid "cc9f8da5-1d90-4d9c-8362-37ba54fdca48")
 	)
 	(pad "A28" connect custom
-		(at -30.04543 12.996)
+		(at -30.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -812,7 +812,7 @@
 		(uuid "3e2a5b66-594f-45eb-a28e-08ed35a30761")
 	)
 	(pad "A29" connect custom
-		(at -29.0453 12.8946 180)
+		(at -29.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -832,7 +832,7 @@
 		(uuid "79698743-d92b-491f-85e3-44ef4a207492")
 	)
 	(pad "A30" connect custom
-		(at -28.04543 12.996)
+		(at -28.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -852,7 +852,7 @@
 		(uuid "52c57523-71d6-4215-b825-5465ae01d4e0")
 	)
 	(pad "A31" connect custom
-		(at -27.0453 12.8946 180)
+		(at -27.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -872,7 +872,7 @@
 		(uuid "d2487b6f-6289-46bd-8707-ef2772f358d7")
 	)
 	(pad "A32" connect custom
-		(at -26.04543 12.996)
+		(at -26.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -892,7 +892,7 @@
 		(uuid "945c9858-4ca7-410a-bbe8-12cc17c53cd2")
 	)
 	(pad "A33" connect custom
-		(at -25.0453 12.8946 180)
+		(at -25.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -912,7 +912,7 @@
 		(uuid "a93f25af-1d9c-4d2f-bdf9-535317232c90")
 	)
 	(pad "A34" connect custom
-		(at -24.04543 12.996)
+		(at -24.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -932,7 +932,7 @@
 		(uuid "bcc55b03-d4d6-4e94-844c-72ffd0691fac")
 	)
 	(pad "A35" connect custom
-		(at -23.0453 12.8946 180)
+		(at -23.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -952,7 +952,7 @@
 		(uuid "e84e29c1-e2d3-42bf-9de3-2bccc15f599e")
 	)
 	(pad "A36" connect custom
-		(at -22.04543 12.996)
+		(at -22.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -972,7 +972,7 @@
 		(uuid "d84f30f6-9c8d-4794-a7bd-0f15eb17cfaf")
 	)
 	(pad "A37" connect custom
-		(at -21.0453 12.8946 180)
+		(at -21.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -992,7 +992,7 @@
 		(uuid "63878e4a-8581-479f-a0cc-d21acddfb38e")
 	)
 	(pad "A38" connect custom
-		(at -20.04543 12.996)
+		(at -20.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1012,7 +1012,7 @@
 		(uuid "73dbe485-4975-450d-9119-46e6c5868e1a")
 	)
 	(pad "A39" connect custom
-		(at -19.0453 12.8946 180)
+		(at -19.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1032,7 +1032,7 @@
 		(uuid "e147185b-28f1-48bc-a512-7d5a7e993caf")
 	)
 	(pad "A40" connect custom
-		(at -18.04543 12.996)
+		(at -18.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1052,7 +1052,7 @@
 		(uuid "1d3a62a3-b3d5-48f4-9ac3-7a871381232b")
 	)
 	(pad "A41" connect custom
-		(at -17.0453 12.8946 180)
+		(at -17.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1072,7 +1072,7 @@
 		(uuid "ae1f6c56-8a5a-4e9f-9de4-745c0c0ff1f1")
 	)
 	(pad "A42" connect custom
-		(at -16.04543 12.996)
+		(at -16.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1092,7 +1092,7 @@
 		(uuid "3e173535-73df-46bc-999e-f3a1f0c5fc57")
 	)
 	(pad "A43" connect custom
-		(at -15.0453 12.8946 180)
+		(at -15.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1112,7 +1112,7 @@
 		(uuid "e03e4b1e-8529-43cd-9453-681c1b4a0a33")
 	)
 	(pad "A44" connect custom
-		(at -14.04543 12.996)
+		(at -14.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1132,7 +1132,7 @@
 		(uuid "0abbed45-e21f-4954-accc-b6e182111ccd")
 	)
 	(pad "A45" connect custom
-		(at -13.0453 12.8946 180)
+		(at -13.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1152,7 +1152,7 @@
 		(uuid "93268a48-5991-44ad-b21c-eed3778fb1d8")
 	)
 	(pad "A46" connect custom
-		(at -12.04543 12.996)
+		(at -12.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1172,7 +1172,7 @@
 		(uuid "708e850f-fa53-4502-ac9c-85d06e9d7bcd")
 	)
 	(pad "A47" connect custom
-		(at -11.0453 12.8946 180)
+		(at -11.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1192,7 +1192,7 @@
 		(uuid "865b5636-b9fe-4307-91d6-bb9b49f2cf91")
 	)
 	(pad "A48" connect custom
-		(at -10.04543 12.996)
+		(at -10.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1212,7 +1212,7 @@
 		(uuid "a70aed0d-6ce7-41a8-ad0f-38f07f241d08")
 	)
 	(pad "A49" connect custom
-		(at -9.0453 12.8946 180)
+		(at -9.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1232,7 +1232,7 @@
 		(uuid "e416b1bd-7060-40a0-a26b-fb8f4a42efb9")
 	)
 	(pad "A50" connect custom
-		(at -8.04543 12.996)
+		(at -8.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1252,7 +1252,7 @@
 		(uuid "48d2ea84-f84f-4d82-8016-5076e4b8d389")
 	)
 	(pad "A51" connect custom
-		(at -7.0453 12.8946 180)
+		(at -7.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1272,7 +1272,7 @@
 		(uuid "90f35281-4862-4e38-8328-59a02f59718c")
 	)
 	(pad "A52" connect custom
-		(at -6.04543 12.996)
+		(at -6.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1292,7 +1292,7 @@
 		(uuid "56cc8768-6fea-45c1-a6ad-4c89928ef388")
 	)
 	(pad "A53" connect custom
-		(at -5.0453 12.8946 180)
+		(at -5.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1312,7 +1312,7 @@
 		(uuid "981ca010-e8a7-4147-a443-04aa30961152")
 	)
 	(pad "A54" connect custom
-		(at -4.04543 12.996)
+		(at -4.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1332,7 +1332,7 @@
 		(uuid "fa4a78a7-4b4d-4536-aec4-aa191528dcc7")
 	)
 	(pad "A55" connect custom
-		(at -3.0453 12.8946 180)
+		(at -3.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1352,7 +1352,7 @@
 		(uuid "abd2e590-8240-4eb2-9a05-620f18c08fbd")
 	)
 	(pad "A56" connect custom
-		(at -2.04543 12.996)
+		(at -2.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1372,7 +1372,7 @@
 		(uuid "657f85d4-1c67-4e28-af72-5dd4346e685f")
 	)
 	(pad "A57" connect custom
-		(at -1.0453 12.8946 180)
+		(at -1.0453 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1392,7 +1392,7 @@
 		(uuid "5a462326-6094-494a-9052-b812f60e5173")
 	)
 	(pad "A58" connect custom
-		(at -0.04543 12.996)
+		(at -0.04543 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1412,7 +1412,7 @@
 		(uuid "f7c9a5d0-c2f4-4d35-84a9-cd2bf29e7e02")
 	)
 	(pad "A59" connect custom
-		(at 0.9547 12.8946 180)
+		(at 0.9547 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1432,7 +1432,7 @@
 		(uuid "6197ce75-5ce9-4496-b840-a09a035eeac3")
 	)
 	(pad "A60" connect custom
-		(at 1.95457 12.996)
+		(at 1.95457 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1452,7 +1452,7 @@
 		(uuid "0967618c-cb54-43db-9b02-7bbba6eaf149")
 	)
 	(pad "A61" connect custom
-		(at 2.9547 12.8946 180)
+		(at 2.9547 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1472,7 +1472,7 @@
 		(uuid "1eebb388-1df1-4d3c-9df4-0a2a78a3aef2")
 	)
 	(pad "A62" connect custom
-		(at 3.95457 12.996)
+		(at 3.95457 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1492,7 +1492,7 @@
 		(uuid "149edbe6-2d9f-435c-860b-82007ef262b0")
 	)
 	(pad "A63" connect custom
-		(at 4.9547 12.8946 180)
+		(at 4.9547 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1512,7 +1512,7 @@
 		(uuid "10bdaad6-ade9-4564-8b10-0413b0b731ae")
 	)
 	(pad "A64" connect custom
-		(at 5.95457 12.996)
+		(at 5.95457 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1532,7 +1532,7 @@
 		(uuid "a25ffc5b-b8d7-472f-87b9-557469546d19")
 	)
 	(pad "A65" connect custom
-		(at 6.9547 12.8946 180)
+		(at 6.9547 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1552,7 +1552,7 @@
 		(uuid "d367972f-15e5-4d77-aae0-c7ac101a0594")
 	)
 	(pad "A66" connect custom
-		(at 7.95457 12.996)
+		(at 7.95457 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1572,7 +1572,7 @@
 		(uuid "dae5f4e1-be5f-4bcc-af29-0619670af7a3")
 	)
 	(pad "A67" connect custom
-		(at 8.9547 12.8946 180)
+		(at 8.9547 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1592,7 +1592,7 @@
 		(uuid "2f6d548a-76c1-4394-9185-c037d1b6d2d3")
 	)
 	(pad "A68" connect custom
-		(at 9.95457 12.996)
+		(at 9.95457 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1612,7 +1612,7 @@
 		(uuid "21868f6b-b0e9-4b7b-b47b-cc08dc087c06")
 	)
 	(pad "A69" connect custom
-		(at 10.9547 12.8946 180)
+		(at 10.9547 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1632,7 +1632,7 @@
 		(uuid "3c337f7f-ad5a-4ed0-9ed7-99302f60df23")
 	)
 	(pad "A70" connect custom
-		(at 11.95457 12.996)
+		(at 11.95457 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1652,7 +1652,7 @@
 		(uuid "a3b70c2f-dbdb-4bb7-a832-849dbd340e7e")
 	)
 	(pad "A71" connect custom
-		(at 12.9547 12.8946 180)
+		(at 12.9547 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1672,7 +1672,7 @@
 		(uuid "f66551f1-5be1-4ffe-b96e-26c59a9616e6")
 	)
 	(pad "A72" connect custom
-		(at 13.95457 12.996)
+		(at 13.95457 14.996)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1692,7 +1692,7 @@
 		(uuid "89a49d4a-4798-42eb-bdb2-3fa3788fd090")
 	)
 	(pad "A73" connect custom
-		(at 14.9547 12.8946 180)
+		(at 14.9547 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1712,7 +1712,7 @@
 		(uuid "c288aeb8-d5d7-4861-8751-8b81224e1180")
 	)
 	(pad "A73" connect custom
-		(at 14.9638 12.8946 180)
+		(at 14.9638 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1732,7 +1732,7 @@
 		(uuid "0cedc0bc-f808-4d67-81a1-ddfee60ce186")
 	)
 	(pad "A74" connect custom
-		(at 19.9422 12.9962)
+		(at 19.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1752,7 +1752,7 @@
 		(uuid "e289e274-fca6-4bae-adbc-8626f870f8f5")
 	)
 	(pad "A75" connect custom
-		(at 20.94233 12.8946 180)
+		(at 20.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1772,7 +1772,7 @@
 		(uuid "aa51257e-51fa-4763-990f-ad1fcafa2fa3")
 	)
 	(pad "A76" connect custom
-		(at 21.9422 12.9962)
+		(at 21.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1792,7 +1792,7 @@
 		(uuid "3ad6a1b9-6b2e-4064-9556-1de89fab4ccd")
 	)
 	(pad "A77" connect custom
-		(at 22.94233 12.8946 180)
+		(at 22.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1812,7 +1812,7 @@
 		(uuid "367217b2-e78d-4a85-bc81-237f85f5866f")
 	)
 	(pad "A78" connect custom
-		(at 23.9422 12.9962)
+		(at 23.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1832,7 +1832,7 @@
 		(uuid "08f3daad-aac3-47fa-be0c-d1718030ea77")
 	)
 	(pad "A79" connect custom
-		(at 24.94233 12.8946 180)
+		(at 24.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1852,7 +1852,7 @@
 		(uuid "53a285d6-e2be-47f5-bcfc-5726b89724d9")
 	)
 	(pad "A80" connect custom
-		(at 25.9422 12.9962)
+		(at 25.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1872,7 +1872,7 @@
 		(uuid "6af4d1f0-eda5-47d9-b772-4e6e7910b000")
 	)
 	(pad "A81" connect custom
-		(at 26.94233 12.8946 180)
+		(at 26.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1892,7 +1892,7 @@
 		(uuid "7ed9d6ca-1ba3-40e1-9fc7-caa63fb69cbb")
 	)
 	(pad "A82" connect custom
-		(at 27.9422 12.9962)
+		(at 27.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1912,7 +1912,7 @@
 		(uuid "38383022-45b2-46c5-8aad-b33e097c05ee")
 	)
 	(pad "A83" connect custom
-		(at 28.94233 12.8946 180)
+		(at 28.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1932,7 +1932,7 @@
 		(uuid "ee73112e-ab0e-46ab-b41d-411f08aef497")
 	)
 	(pad "A84" connect custom
-		(at 29.9422 12.9962)
+		(at 29.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1952,7 +1952,7 @@
 		(uuid "b29ce327-f3dd-46f6-940b-1b5bd2ca71ec")
 	)
 	(pad "A85" connect custom
-		(at 30.94233 12.8946 180)
+		(at 30.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1972,7 +1972,7 @@
 		(uuid "0083ccec-89c9-44e9-b052-f551cce40216")
 	)
 	(pad "A86" connect custom
-		(at 31.9422 12.9962)
+		(at 31.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -1992,7 +1992,7 @@
 		(uuid "a27672f7-e6de-4043-a90b-df893ee500ed")
 	)
 	(pad "A87" connect custom
-		(at 32.94233 12.8946 180)
+		(at 32.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2012,7 +2012,7 @@
 		(uuid "abf6c451-cbf4-4ba7-9bea-71b3c348c62e")
 	)
 	(pad "A88" connect custom
-		(at 33.9422 12.9962)
+		(at 33.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2032,7 +2032,7 @@
 		(uuid "aed728d0-5b29-4e8c-bd20-c2f3b32ca79a")
 	)
 	(pad "A89" connect custom
-		(at 34.94233 12.8946 180)
+		(at 34.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2052,7 +2052,7 @@
 		(uuid "e11377f6-74ac-4fb1-b565-001cfdb892fb")
 	)
 	(pad "A90" connect custom
-		(at 35.9422 12.9962)
+		(at 35.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2072,7 +2072,7 @@
 		(uuid "cca75086-380e-4c94-a93a-bd8e4a66d211")
 	)
 	(pad "A91" connect custom
-		(at 36.94233 12.8946 180)
+		(at 36.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2092,7 +2092,7 @@
 		(uuid "858bbdf5-df5c-42d6-a52a-bbc80fb42168")
 	)
 	(pad "A92" connect custom
-		(at 37.9422 12.9962)
+		(at 37.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2112,7 +2112,7 @@
 		(uuid "f9241feb-328d-457a-bfaf-a03e83e7ea87")
 	)
 	(pad "A93" connect custom
-		(at 38.94233 12.8946 180)
+		(at 38.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2132,7 +2132,7 @@
 		(uuid "77ded6bf-f45f-4a08-8e2e-6f726d21732c")
 	)
 	(pad "A94" connect custom
-		(at 39.9422 12.9962)
+		(at 39.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2152,7 +2152,7 @@
 		(uuid "d2fbfc94-fe8f-4dff-bb05-de649b141d46")
 	)
 	(pad "A95" connect custom
-		(at 40.94233 12.8946 180)
+		(at 40.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2172,7 +2172,7 @@
 		(uuid "181db6ed-343e-450b-9dad-4bcd48a5edb4")
 	)
 	(pad "A96" connect custom
-		(at 41.9422 12.9962)
+		(at 41.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2192,7 +2192,7 @@
 		(uuid "08f6510d-9a9b-4e52-aac9-66e6f5b7e07e")
 	)
 	(pad "A97" connect custom
-		(at 42.94233 12.8946 180)
+		(at 42.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2212,7 +2212,7 @@
 		(uuid "535aa13f-6d29-4f62-b57e-9864a0fd140e")
 	)
 	(pad "A98" connect custom
-		(at 43.9422 12.9962)
+		(at 43.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2232,7 +2232,7 @@
 		(uuid "e3d71fc7-062b-4f11-b277-fbbc63ce5df8")
 	)
 	(pad "A99" connect custom
-		(at 44.94233 12.8946 180)
+		(at 44.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2252,7 +2252,7 @@
 		(uuid "98359a6f-fb3c-41d0-b31d-5f44f47a1042")
 	)
 	(pad "A100" connect custom
-		(at 45.9422 12.9962)
+		(at 45.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2272,7 +2272,7 @@
 		(uuid "d928ddf4-b759-4d39-b0f3-9b3946a2e6bc")
 	)
 	(pad "A101" connect custom
-		(at 46.94233 12.8946 180)
+		(at 46.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2292,7 +2292,7 @@
 		(uuid "6a68dd9a-7f12-4996-b105-54a6fb354315")
 	)
 	(pad "A102" connect custom
-		(at 47.9422 12.9962)
+		(at 47.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2312,7 +2312,7 @@
 		(uuid "28c381b3-6ecd-4b18-8119-eb7bbd8b14e8")
 	)
 	(pad "A103" connect custom
-		(at 48.94233 12.8946 180)
+		(at 48.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2332,7 +2332,7 @@
 		(uuid "b24b2a12-9b4e-4523-8c94-8624e148bc2f")
 	)
 	(pad "A104" connect custom
-		(at 49.9422 12.9962)
+		(at 49.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2352,7 +2352,7 @@
 		(uuid "42a4ee85-f912-4b93-946b-7b2c59e1569a")
 	)
 	(pad "A105" connect custom
-		(at 50.94233 12.8946 180)
+		(at 50.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2372,7 +2372,7 @@
 		(uuid "7241734f-1e68-4226-b26d-3174d2de56de")
 	)
 	(pad "A106" connect custom
-		(at 51.9422 12.9962)
+		(at 51.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2392,7 +2392,7 @@
 		(uuid "cd0bf607-a196-4a26-bd6a-00c1994dd4e9")
 	)
 	(pad "A107" connect custom
-		(at 52.94233 12.8946 180)
+		(at 52.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2412,7 +2412,7 @@
 		(uuid "a3fe31ca-3853-4c0b-a9d1-525f57e0436d")
 	)
 	(pad "A108" connect custom
-		(at 53.9422 12.9962)
+		(at 53.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2432,7 +2432,7 @@
 		(uuid "e42f8105-d854-4048-93d3-0fb22281db61")
 	)
 	(pad "A109" connect custom
-		(at 54.94233 12.8946 180)
+		(at 54.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2452,7 +2452,7 @@
 		(uuid "a08df251-526a-401a-83a1-1848282893fe")
 	)
 	(pad "A110" connect custom
-		(at 55.9422 12.9962)
+		(at 55.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2472,7 +2472,7 @@
 		(uuid "18ca2ca9-ea78-4fe7-a3c9-647bedb1d849")
 	)
 	(pad "A111" connect custom
-		(at 56.94233 12.8946 180)
+		(at 56.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2492,7 +2492,7 @@
 		(uuid "43240072-ddff-4de9-a616-61df7773fa5d")
 	)
 	(pad "A112" connect custom
-		(at 57.9422 12.9962)
+		(at 57.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2512,7 +2512,7 @@
 		(uuid "3bea40ec-d731-480c-a51d-8be4a30a043e")
 	)
 	(pad "A113" connect custom
-		(at 58.94233 12.8946 180)
+		(at 58.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2532,7 +2532,7 @@
 		(uuid "48f09b11-db58-423c-93c2-d6836a99a3de")
 	)
 	(pad "A114" connect custom
-		(at 59.9422 12.9962)
+		(at 59.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2552,7 +2552,7 @@
 		(uuid "c0eb894b-f0a1-4ab2-83ae-407d4e4dd560")
 	)
 	(pad "A115" connect custom
-		(at 60.94233 12.8946 180)
+		(at 60.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2572,7 +2572,7 @@
 		(uuid "bbdfe263-4038-4437-888e-f0e0d8d91b86")
 	)
 	(pad "A116" connect custom
-		(at 61.9422 12.9962)
+		(at 61.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2592,7 +2592,7 @@
 		(uuid "e8beb200-a237-4a8c-af58-492052f6671c")
 	)
 	(pad "A117" connect custom
-		(at 62.94233 12.8946 180)
+		(at 62.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2612,7 +2612,7 @@
 		(uuid "6faad088-aa25-4e49-a3b9-8aead647f6cd")
 	)
 	(pad "A118" connect custom
-		(at 63.9422 12.9962)
+		(at 63.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2632,7 +2632,7 @@
 		(uuid "99796763-07b0-4b69-8652-9ca9225c2189")
 	)
 	(pad "A119" connect custom
-		(at 64.94233 12.8946 180)
+		(at 64.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2652,7 +2652,7 @@
 		(uuid "6b802dfa-80c3-48de-a828-78ef50dda4eb")
 	)
 	(pad "A120" connect custom
-		(at 65.9422 12.9962)
+		(at 65.9422 14.9962)
 		(size 0.406 2.565)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2672,7 +2672,7 @@
 		(uuid "db82afab-cb41-4cf4-81c2-b238393e7b43")
 	)
 	(pad "A121" connect custom
-		(at 66.94233 12.8946 180)
+		(at 66.94233 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "F.Cu" "F.Mask")
 		(clearance 0.2032)
@@ -2692,7 +2692,7 @@
 		(uuid "71020713-bb3c-4481-9966-2d6b6ee372b4")
 	)
 	(pad "B1" connect custom
-		(at -57.04556 12.9962)
+		(at -57.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -2712,7 +2712,7 @@
 		(uuid "dba6f45c-1b7f-49b0-b3d3-4b1d1eae6ae2")
 	)
 	(pad "B2" connect custom
-		(at -56.04556 12.8946 180)
+		(at -56.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -2732,7 +2732,7 @@
 		(uuid "2b341f01-385a-4136-8b96-c3a3333f08bd")
 	)
 	(pad "B3" connect custom
-		(at -55.04556 12.9962)
+		(at -55.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -2752,7 +2752,7 @@
 		(uuid "58ca35c2-f832-46b0-918a-abc7457df520")
 	)
 	(pad "B4" connect custom
-		(at -54.04556 12.8946 180)
+		(at -54.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -2772,7 +2772,7 @@
 		(uuid "809865a4-45c0-45f2-a090-67547e49f390")
 	)
 	(pad "B5" connect custom
-		(at -53.04556 12.9962)
+		(at -53.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -2792,7 +2792,7 @@
 		(uuid "484b2017-fb8d-4e37-a98f-4b8f675c9d8b")
 	)
 	(pad "B6" connect custom
-		(at -52.04556 12.8946 180)
+		(at -52.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -2812,7 +2812,7 @@
 		(uuid "76ccf3c5-2e9b-4c4a-8f92-e11551834770")
 	)
 	(pad "B7" connect custom
-		(at -51.04556 12.9962)
+		(at -51.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -2832,7 +2832,7 @@
 		(uuid "18d52277-a121-47f5-9502-7849b11013ee")
 	)
 	(pad "B8" connect custom
-		(at -50.04556 12.8946 180)
+		(at -50.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -2852,7 +2852,7 @@
 		(uuid "8c930e63-3fe8-4313-b2a5-9c5cfedff279")
 	)
 	(pad "B9" connect custom
-		(at -49.04556 12.9962)
+		(at -49.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -2872,7 +2872,7 @@
 		(uuid "d5eba817-4511-459f-85ab-9ae883ceef33")
 	)
 	(pad "B10" connect custom
-		(at -48.04556 12.8946 180)
+		(at -48.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -2892,7 +2892,7 @@
 		(uuid "c2385761-adf0-40de-99d3-6fc40b1a98d2")
 	)
 	(pad "B11" connect custom
-		(at -47.04556 12.9962)
+		(at -47.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -2912,7 +2912,7 @@
 		(uuid "3c1481ae-c9df-404f-a900-5f5a6672a3b9")
 	)
 	(pad "B12" connect custom
-		(at -46.04556 12.8946 180)
+		(at -46.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -2932,7 +2932,7 @@
 		(uuid "01da2889-eb17-4275-8baa-6d925e2062dc")
 	)
 	(pad "B13" connect custom
-		(at -45.04556 12.9962)
+		(at -45.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -2952,7 +2952,7 @@
 		(uuid "4125543f-f9bd-48a6-963d-725e00c02868")
 	)
 	(pad "B14" connect custom
-		(at -44.04556 12.8946 180)
+		(at -44.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -2972,7 +2972,7 @@
 		(uuid "d93b99ec-5466-4c3d-9759-61c4f9ff0b2f")
 	)
 	(pad "B15" connect custom
-		(at -43.04556 12.9962)
+		(at -43.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -2992,7 +2992,7 @@
 		(uuid "1923c74a-f1f4-492e-a712-580563424c9f")
 	)
 	(pad "B16" connect custom
-		(at -42.04556 12.8946 180)
+		(at -42.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3012,7 +3012,7 @@
 		(uuid "994555b0-5fea-404b-ada1-17a16b700262")
 	)
 	(pad "B17" connect custom
-		(at -41.04556 12.9962)
+		(at -41.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3032,7 +3032,7 @@
 		(uuid "eefa88c7-eddf-4c30-bef0-88d8875ac2b3")
 	)
 	(pad "B18" connect custom
-		(at -40.04556 12.8946 180)
+		(at -40.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3052,7 +3052,7 @@
 		(uuid "9e60e95a-262e-4a06-a56e-689a777b7905")
 	)
 	(pad "B19" connect custom
-		(at -39.04556 12.9962)
+		(at -39.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3072,7 +3072,7 @@
 		(uuid "c6e887ac-9ddd-4d08-8aef-dbc6cd0f75b6")
 	)
 	(pad "B20" connect custom
-		(at -38.04556 12.8946 180)
+		(at -38.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3092,7 +3092,7 @@
 		(uuid "612d4a05-97be-42cf-9dab-48f95bd8af73")
 	)
 	(pad "B21" connect custom
-		(at -37.04556 12.9962)
+		(at -37.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3112,7 +3112,7 @@
 		(uuid "876f0d67-7065-428a-a41b-5b320069acfc")
 	)
 	(pad "B22" connect custom
-		(at -36.04556 12.8946 180)
+		(at -36.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3132,7 +3132,7 @@
 		(uuid "69d97807-ddbc-457f-8740-6084eec0f139")
 	)
 	(pad "B23" connect custom
-		(at -35.04556 12.9962)
+		(at -35.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3152,7 +3152,7 @@
 		(uuid "bb463fe4-98f7-41e4-97d4-1a23b233f9c5")
 	)
 	(pad "B24" connect custom
-		(at -34.04556 12.8946 180)
+		(at -34.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3172,7 +3172,7 @@
 		(uuid "23485e41-576d-4fcc-88fe-e73e34f77bce")
 	)
 	(pad "B25" connect custom
-		(at -33.04556 12.9962)
+		(at -33.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3192,7 +3192,7 @@
 		(uuid "8f1f04e0-0a88-423a-aaf1-ac222111db72")
 	)
 	(pad "B26" connect custom
-		(at -32.04556 12.8946 180)
+		(at -32.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3212,7 +3212,7 @@
 		(uuid "0ac34579-5a6a-4096-bffe-c10df8b7d96c")
 	)
 	(pad "B27" connect custom
-		(at -31.04556 12.9962)
+		(at -31.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3232,7 +3232,7 @@
 		(uuid "8e774dae-8827-4f05-9638-507b3f264f28")
 	)
 	(pad "B28" connect custom
-		(at -30.04556 12.8946 180)
+		(at -30.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3252,7 +3252,7 @@
 		(uuid "e39ee9f1-311e-428c-9c1a-82a39af88ce5")
 	)
 	(pad "B29" connect custom
-		(at -29.04556 12.9962)
+		(at -29.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3272,7 +3272,7 @@
 		(uuid "27c188ee-5469-4669-84b7-f81c980fa56e")
 	)
 	(pad "B30" connect custom
-		(at -28.04556 12.8946 180)
+		(at -28.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3292,7 +3292,7 @@
 		(uuid "05fd2e40-b5b5-4ab5-af20-130b7c92e333")
 	)
 	(pad "B31" connect custom
-		(at -27.04556 12.9962)
+		(at -27.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3312,7 +3312,7 @@
 		(uuid "892a99c0-d8ba-49f2-9964-f56467d7e8a9")
 	)
 	(pad "B32" connect custom
-		(at -26.04556 12.8946 180)
+		(at -26.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3332,7 +3332,7 @@
 		(uuid "f9f2a410-28c4-465a-ba22-531cdaf4ae42")
 	)
 	(pad "B33" connect custom
-		(at -25.04556 12.9962)
+		(at -25.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3352,7 +3352,7 @@
 		(uuid "9e57ebd1-f071-4738-b425-cdcc368995d6")
 	)
 	(pad "B34" connect custom
-		(at -24.04556 12.8946 180)
+		(at -24.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3372,7 +3372,7 @@
 		(uuid "50b72d83-4ae6-479e-b397-fe451a576b85")
 	)
 	(pad "B35" connect custom
-		(at -23.04556 12.9962)
+		(at -23.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3392,7 +3392,7 @@
 		(uuid "be7f24a0-a1ef-4fd3-aa5a-ff62376f8d9b")
 	)
 	(pad "B36" connect custom
-		(at -22.04556 12.8946 180)
+		(at -22.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3412,7 +3412,7 @@
 		(uuid "73948530-6c60-4d4d-9b30-c1c1cd3c4f24")
 	)
 	(pad "B37" connect custom
-		(at -21.04556 12.9962)
+		(at -21.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3432,7 +3432,7 @@
 		(uuid "cfa2032e-d0fa-413e-88b7-39128f9777e4")
 	)
 	(pad "B38" connect custom
-		(at -20.04556 12.8946 180)
+		(at -20.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3452,7 +3452,7 @@
 		(uuid "f3311143-bf9e-4431-894d-0d8ccb4a0d82")
 	)
 	(pad "B39" connect custom
-		(at -19.04556 12.9962)
+		(at -19.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3472,7 +3472,7 @@
 		(uuid "78de03a0-c7b2-4af1-89b4-63b03c6aaed7")
 	)
 	(pad "B40" connect custom
-		(at -18.04556 12.8946 180)
+		(at -18.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3492,7 +3492,7 @@
 		(uuid "d74d5d5a-1f01-4724-9c89-0d1c91df5879")
 	)
 	(pad "B41" connect custom
-		(at -17.04556 12.9962)
+		(at -17.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3512,7 +3512,7 @@
 		(uuid "4d85d925-cbe0-45de-a1f4-187996f2c413")
 	)
 	(pad "B42" connect custom
-		(at -16.04556 12.8946 180)
+		(at -16.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3532,7 +3532,7 @@
 		(uuid "91dbcf03-eb2e-4b1a-a11b-313a5524784f")
 	)
 	(pad "B43" connect custom
-		(at -15.04556 12.9962)
+		(at -15.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3552,7 +3552,7 @@
 		(uuid "c44517c3-3963-4fc7-88c3-c415af32deb3")
 	)
 	(pad "B44" connect custom
-		(at -14.04556 12.8946 180)
+		(at -14.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3572,7 +3572,7 @@
 		(uuid "c54a2391-4b42-4677-bf57-09aa2591840f")
 	)
 	(pad "B45" connect custom
-		(at -13.04556 12.9962)
+		(at -13.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3592,7 +3592,7 @@
 		(uuid "eab6028f-c9d3-46f9-819e-1c647895ab75")
 	)
 	(pad "B46" connect custom
-		(at -12.04556 12.8946 180)
+		(at -12.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3612,7 +3612,7 @@
 		(uuid "b3fa8fd5-4e13-459f-aa58-5f6fc18e313a")
 	)
 	(pad "B47" connect custom
-		(at -11.04556 12.9962)
+		(at -11.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3632,7 +3632,7 @@
 		(uuid "bf940ffc-6bf3-4d93-abf3-30dc2a391894")
 	)
 	(pad "B48" connect custom
-		(at -10.04556 12.8946 180)
+		(at -10.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3652,7 +3652,7 @@
 		(uuid "f314f078-8d84-45cd-a15f-6f087ba88006")
 	)
 	(pad "B49" connect custom
-		(at -9.04556 12.9962)
+		(at -9.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3672,7 +3672,7 @@
 		(uuid "19cc4776-7abd-4bda-8718-4dc4c5449e2b")
 	)
 	(pad "B50" connect custom
-		(at -8.04556 12.8946 180)
+		(at -8.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3692,7 +3692,7 @@
 		(uuid "a3e4310a-aa5a-42ba-ad21-51adefd94204")
 	)
 	(pad "B51" connect custom
-		(at -7.04556 12.9962)
+		(at -7.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3712,7 +3712,7 @@
 		(uuid "5938ac7f-e80f-44b0-a830-28854b6b5e64")
 	)
 	(pad "B52" connect custom
-		(at -6.04556 12.8946 180)
+		(at -6.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3732,7 +3732,7 @@
 		(uuid "41ef8c0b-f461-4892-8855-528d113ea847")
 	)
 	(pad "B53" connect custom
-		(at -5.04556 12.9962)
+		(at -5.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3752,7 +3752,7 @@
 		(uuid "201d5d05-d983-47a5-b85a-24bb65adc51a")
 	)
 	(pad "B54" connect custom
-		(at -4.04556 12.8946 180)
+		(at -4.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3772,7 +3772,7 @@
 		(uuid "32743723-a5c8-48ed-aed4-424347df3df5")
 	)
 	(pad "B55" connect custom
-		(at -3.04556 12.9962)
+		(at -3.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3792,7 +3792,7 @@
 		(uuid "9728947d-f803-4716-8d6d-460a16f1b47c")
 	)
 	(pad "B56" connect custom
-		(at -2.04556 12.8946 180)
+		(at -2.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3812,7 +3812,7 @@
 		(uuid "d3b09756-9b29-4d6a-9694-b3891315c5dd")
 	)
 	(pad "B57" connect custom
-		(at -1.04556 12.9962)
+		(at -1.04556 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3832,7 +3832,7 @@
 		(uuid "c96505b6-5e81-43a0-8e00-6a95c32ae574")
 	)
 	(pad "B58" connect custom
-		(at -0.04556 12.8946 180)
+		(at -0.04556 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3852,7 +3852,7 @@
 		(uuid "f6b4275c-16f1-45eb-8cd7-59aaadc45d47")
 	)
 	(pad "B59" connect custom
-		(at 0.95444 12.9962)
+		(at 0.95444 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3872,7 +3872,7 @@
 		(uuid "399ff4d6-3a7d-422e-b6e7-9667a051c194")
 	)
 	(pad "B60" connect custom
-		(at 1.95444 12.8946 180)
+		(at 1.95444 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3892,7 +3892,7 @@
 		(uuid "2218586d-2f7a-4d37-b973-a7e23658e2ec")
 	)
 	(pad "B61" connect custom
-		(at 2.95444 12.9962)
+		(at 2.95444 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3912,7 +3912,7 @@
 		(uuid "3d9c44ba-9b11-474c-a846-6515b9bdb50b")
 	)
 	(pad "B62" connect custom
-		(at 3.95444 12.8946 180)
+		(at 3.95444 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3932,7 +3932,7 @@
 		(uuid "dd541438-7064-48bd-b822-2e27a1169ecd")
 	)
 	(pad "B63" connect custom
-		(at 4.95444 12.9962)
+		(at 4.95444 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3952,7 +3952,7 @@
 		(uuid "facadda3-a22b-4bc0-834f-8748274bc393")
 	)
 	(pad "B64" connect custom
-		(at 5.95444 12.8946 180)
+		(at 5.95444 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3972,7 +3972,7 @@
 		(uuid "b33b779e-03d4-4e98-bf4f-1ff36db4b50b")
 	)
 	(pad "B65" connect custom
-		(at 6.95444 12.9962)
+		(at 6.95444 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -3992,7 +3992,7 @@
 		(uuid "5c4c963c-503c-4c50-85ab-5782c4e98a38")
 	)
 	(pad "B66" connect custom
-		(at 7.95444 12.8946 180)
+		(at 7.95444 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4012,7 +4012,7 @@
 		(uuid "4b7493d1-01bd-44f0-a519-624a56acc57b")
 	)
 	(pad "B67" connect custom
-		(at 8.95444 12.9962)
+		(at 8.95444 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4032,7 +4032,7 @@
 		(uuid "daa75d0b-615a-4c5b-8146-8bbaf26f4bfc")
 	)
 	(pad "B68" connect custom
-		(at 9.95444 12.8946 180)
+		(at 9.95444 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4052,7 +4052,7 @@
 		(uuid "d6e8a223-c04e-4a54-b1d0-51e22d67de22")
 	)
 	(pad "B69" connect custom
-		(at 10.95444 12.9962)
+		(at 10.95444 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4072,7 +4072,7 @@
 		(uuid "8aa3960b-925d-45ba-8351-9e6aaa135154")
 	)
 	(pad "B70" connect custom
-		(at 11.95444 12.8946 180)
+		(at 11.95444 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4092,7 +4092,7 @@
 		(uuid "d76058a6-e313-49e4-9669-41a4e2cdd18a")
 	)
 	(pad "B71" connect custom
-		(at 12.95444 12.9962)
+		(at 12.95444 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4112,7 +4112,7 @@
 		(uuid "fea60e37-88d5-40a0-b51d-f8bdfe4c4f03")
 	)
 	(pad "B72" connect custom
-		(at 13.95444 12.8946 180)
+		(at 13.95444 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4132,7 +4132,7 @@
 		(uuid "1361d3b5-033d-4b7b-b93b-ea1fd5e80f55")
 	)
 	(pad "B73" connect custom
-		(at 14.95444 12.9962)
+		(at 14.95444 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4152,7 +4152,7 @@
 		(uuid "bb4ce13b-a014-45ce-9717-90a8e43e0fe2")
 	)
 	(pad "B74" connect custom
-		(at 19.9422 12.8946 180)
+		(at 19.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4172,7 +4172,7 @@
 		(uuid "f093c3d4-9395-444d-912b-0a6660ad5f99")
 	)
 	(pad "B75" connect custom
-		(at 20.94233 12.9962)
+		(at 20.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4192,7 +4192,7 @@
 		(uuid "416eee38-cb61-4283-9c56-12f10e4d43fc")
 	)
 	(pad "B76" connect custom
-		(at 21.9422 12.8946 180)
+		(at 21.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4212,7 +4212,7 @@
 		(uuid "dba3fb47-6a2d-4346-ad4c-ea9de2f3a17f")
 	)
 	(pad "B77" connect custom
-		(at 22.94233 12.9962)
+		(at 22.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4232,7 +4232,7 @@
 		(uuid "fc3404a6-6d68-420c-bbdb-9ea3216152ad")
 	)
 	(pad "B78" connect custom
-		(at 23.9422 12.8946 180)
+		(at 23.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4252,7 +4252,7 @@
 		(uuid "20177ed7-b4a3-4faf-8955-030d49c0993b")
 	)
 	(pad "B79" connect custom
-		(at 24.94233 12.9962)
+		(at 24.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4272,7 +4272,7 @@
 		(uuid "bbf28d32-b45e-4dee-886a-df31ae336c6f")
 	)
 	(pad "B80" connect custom
-		(at 25.9422 12.8946 180)
+		(at 25.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4292,7 +4292,7 @@
 		(uuid "9ad71160-cf09-4382-aee6-eafc5370b99f")
 	)
 	(pad "B81" connect custom
-		(at 26.94233 12.9962)
+		(at 26.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4312,7 +4312,7 @@
 		(uuid "60daa03f-f528-4ff2-81f9-ff3c7d2f52b1")
 	)
 	(pad "B82" connect custom
-		(at 27.9422 12.8946 180)
+		(at 27.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4332,7 +4332,7 @@
 		(uuid "1efe776d-066f-4fca-9dae-d9b0f427af19")
 	)
 	(pad "B83" connect custom
-		(at 28.94233 12.9962)
+		(at 28.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4352,7 +4352,7 @@
 		(uuid "cbab2125-6ba2-4c6c-90c2-3f84fb905bf2")
 	)
 	(pad "B84" connect custom
-		(at 29.9422 12.8946 180)
+		(at 29.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4372,7 +4372,7 @@
 		(uuid "e5c8b6b1-977a-4f73-8615-af178b98c18b")
 	)
 	(pad "B85" connect custom
-		(at 30.94233 12.9962)
+		(at 30.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4392,7 +4392,7 @@
 		(uuid "08c1fdaa-3a9c-436f-b281-6d12dbd6b1bf")
 	)
 	(pad "B86" connect custom
-		(at 31.9422 12.8946 180)
+		(at 31.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4412,7 +4412,7 @@
 		(uuid "537b19e2-96a7-4936-8b28-905a84da485f")
 	)
 	(pad "B87" connect custom
-		(at 32.94233 12.9962)
+		(at 32.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4432,7 +4432,7 @@
 		(uuid "497c6ade-9da8-458a-8f8a-61b41ca6a345")
 	)
 	(pad "B88" connect custom
-		(at 33.9422 12.8946 180)
+		(at 33.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4452,7 +4452,7 @@
 		(uuid "89dc3559-a211-4172-9d6a-e3da7d1892c5")
 	)
 	(pad "B89" connect custom
-		(at 34.94233 12.9962)
+		(at 34.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4472,7 +4472,7 @@
 		(uuid "a4093070-89ef-4d71-ad75-876bc6242599")
 	)
 	(pad "B90" connect custom
-		(at 35.9422 12.8946 180)
+		(at 35.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4492,7 +4492,7 @@
 		(uuid "a2c3ddfd-eacd-4750-9831-d575065bd27f")
 	)
 	(pad "B91" connect custom
-		(at 36.94233 12.9962)
+		(at 36.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4512,7 +4512,7 @@
 		(uuid "2f32de34-4c49-4873-9f06-1c9296f639a9")
 	)
 	(pad "B92" connect custom
-		(at 37.9422 12.8946 180)
+		(at 37.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4532,7 +4532,7 @@
 		(uuid "8557eff1-9720-43ee-8cf5-9e7f7aef84da")
 	)
 	(pad "B93" connect custom
-		(at 38.94233 12.9962)
+		(at 38.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4552,7 +4552,7 @@
 		(uuid "29c1c771-e0cc-4a38-a33a-04938a1537ea")
 	)
 	(pad "B94" connect custom
-		(at 39.9422 12.8946 180)
+		(at 39.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4572,7 +4572,7 @@
 		(uuid "699417b6-2f37-4f0c-a1b9-5e2a6f4e2148")
 	)
 	(pad "B95" connect custom
-		(at 40.94233 12.9962)
+		(at 40.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4592,7 +4592,7 @@
 		(uuid "42861acd-1cca-402d-aa8b-0bbfc643be3b")
 	)
 	(pad "B96" connect custom
-		(at 41.9422 12.8946 180)
+		(at 41.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4612,7 +4612,7 @@
 		(uuid "908e82f4-f408-4e65-bd28-64066a2ade67")
 	)
 	(pad "B97" connect custom
-		(at 42.94233 12.9962)
+		(at 42.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4632,7 +4632,7 @@
 		(uuid "88c6a94b-c95f-48b9-acd2-f016732ebf9b")
 	)
 	(pad "B98" connect custom
-		(at 43.9422 12.8946 180)
+		(at 43.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4652,7 +4652,7 @@
 		(uuid "be214996-773f-468c-9bbf-b1e4218944f2")
 	)
 	(pad "B99" connect custom
-		(at 44.94233 12.9962)
+		(at 44.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4672,7 +4672,7 @@
 		(uuid "df3b8808-e14d-4331-98e6-6ca9fd73be87")
 	)
 	(pad "B100" connect custom
-		(at 45.9422 12.8946 180)
+		(at 45.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4692,7 +4692,7 @@
 		(uuid "a0106f05-8380-44e2-a190-d1ec65f6f01b")
 	)
 	(pad "B101" connect custom
-		(at 46.94233 12.9962)
+		(at 46.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4712,7 +4712,7 @@
 		(uuid "22700945-553d-4332-a1c6-dcf04e631722")
 	)
 	(pad "B102" connect custom
-		(at 47.9422 12.8946 180)
+		(at 47.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4732,7 +4732,7 @@
 		(uuid "6c5e2773-e703-4e32-ac34-5876d54bd22a")
 	)
 	(pad "B103" connect custom
-		(at 48.94233 12.9962)
+		(at 48.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4752,7 +4752,7 @@
 		(uuid "4dd64295-64c6-4513-93f5-ef80082c3453")
 	)
 	(pad "B104" connect custom
-		(at 49.9422 12.8946 180)
+		(at 49.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4772,7 +4772,7 @@
 		(uuid "6c05f006-9587-4a24-a9ae-4ffe3c39ad8b")
 	)
 	(pad "B105" connect custom
-		(at 50.94233 12.9962)
+		(at 50.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4792,7 +4792,7 @@
 		(uuid "037afc7a-741d-4a0c-899c-741e45256899")
 	)
 	(pad "B106" connect custom
-		(at 51.9422 12.8946 180)
+		(at 51.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4812,7 +4812,7 @@
 		(uuid "ebd66336-8c24-4327-b37e-ddd3a0bdee42")
 	)
 	(pad "B107" connect custom
-		(at 52.94233 12.9962)
+		(at 52.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4832,7 +4832,7 @@
 		(uuid "fbaf3796-2216-4221-868b-8ee17c99661e")
 	)
 	(pad "B108" connect custom
-		(at 53.9422 12.8946 180)
+		(at 53.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4852,7 +4852,7 @@
 		(uuid "ad050859-7305-4ecc-a995-6991458d2978")
 	)
 	(pad "B109" connect custom
-		(at 54.94233 12.9962)
+		(at 54.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4872,7 +4872,7 @@
 		(uuid "1d1fe550-148e-4f5a-9b90-a8b4a7990528")
 	)
 	(pad "B110" connect custom
-		(at 55.9422 12.8946 180)
+		(at 55.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4892,7 +4892,7 @@
 		(uuid "3eabaf26-c918-4384-869f-6da01c750ed0")
 	)
 	(pad "B111" connect custom
-		(at 56.94233 12.9962)
+		(at 56.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4912,7 +4912,7 @@
 		(uuid "285d5647-3f79-42bf-a262-17a01f47f618")
 	)
 	(pad "B112" connect custom
-		(at 57.9422 12.8946 180)
+		(at 57.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4932,7 +4932,7 @@
 		(uuid "c7b13ff3-5685-4022-946c-53e7eac78d4c")
 	)
 	(pad "B113" connect custom
-		(at 58.94233 12.9962)
+		(at 58.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4952,7 +4952,7 @@
 		(uuid "db641f43-7733-43b6-a07c-fe505b2c8c18")
 	)
 	(pad "B114" connect custom
-		(at 59.9422 12.8946 180)
+		(at 59.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4972,7 +4972,7 @@
 		(uuid "dd0231ae-baad-496a-9c20-7b6ddc7830aa")
 	)
 	(pad "B115" connect custom
-		(at 60.94233 12.9962)
+		(at 60.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -4992,7 +4992,7 @@
 		(uuid "c75f7be3-d19e-4539-ba30-8f3530af4582")
 	)
 	(pad "B116" connect custom
-		(at 61.9422 12.8946 180)
+		(at 61.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -5012,7 +5012,7 @@
 		(uuid "ea5b2470-dd57-47ca-ba08-19125fc5e298")
 	)
 	(pad "B117" connect custom
-		(at 62.94233 12.9962)
+		(at 62.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -5032,7 +5032,7 @@
 		(uuid "0aa0dd1c-668d-473b-9465-5f41b0f281c7")
 	)
 	(pad "B118" connect custom
-		(at 63.9422 12.8946 180)
+		(at 63.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -5052,7 +5052,7 @@
 		(uuid "53ec3ef0-b2c6-4647-bcac-482c121f9a2a")
 	)
 	(pad "B119" connect custom
-		(at 64.94233 12.9962)
+		(at 64.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -5072,7 +5072,7 @@
 		(uuid "b63bee54-ef33-425f-9abe-ef48494a5237")
 	)
 	(pad "B120" connect custom
-		(at 65.9422 12.8946 180)
+		(at 65.9422 14.8946 180)
 		(size 1.0922 2.3622)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
@@ -5092,7 +5092,7 @@
 		(uuid "a53e2583-f9c6-4464-af44-7b295567110d")
 	)
 	(pad "B121" connect custom
-		(at 66.94233 12.9962)
+		(at 66.94233 14.9962)
 		(size 0.406 2.565)
 		(layers "B.Cu" "B.Mask")
 		(clearance 0.2032)
