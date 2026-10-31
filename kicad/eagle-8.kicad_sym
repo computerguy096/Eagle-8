@@ -10438,7 +10438,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin input line
 				(at -13.97 17.78 0)
 				(length 5.08)
 				(name "Reserved"
@@ -10448,7 +10448,7 @@
 						)
 					)
 				)
-				(number "A113"
+				(number "B12"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10466,7 +10466,7 @@
 						)
 					)
 				)
-				(number "A116"
+				(number "A113"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10484,7 +10484,7 @@
 						)
 					)
 				)
-				(number "A16"
+				(number "A116"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10502,7 +10502,7 @@
 						)
 					)
 				)
-				(number "A47"
+				(number "A16"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10520,7 +10520,7 @@
 						)
 					)
 				)
-				(number "A88"
+				(number "A47"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10538,7 +10538,7 @@
 						)
 					)
 				)
-				(number "B112"
+				(number "A88"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10556,7 +10556,7 @@
 						)
 					)
 				)
-				(number "B12"
+				(number "B112"
 					(effects
 						(font
 							(size 1.27 1.27)
