@@ -16,6 +16,7 @@ kicad/*-save.pro
 kicad/*-save.kicad_pcb
 kicad/fp-info-cache
 kicad/#auto_saved_files#
+kicad/.history/*
 
 # Netlist files (exported from Eeschema)
 /kicad/*.net
