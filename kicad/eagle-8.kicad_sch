@@ -27396,6 +27396,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C1711"
+			(at 82.55 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d645d929-8493-471d-950e-778bfa39b7cb")
 		)
@@ -27469,6 +27480,17 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 41.91 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C429297"
+			(at 41.91 125.73 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29009,6 +29031,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C600546"
+			(at 90.17 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a88e12a0-3662-42e9-96ab-9cf01ae58b27")
 		)
@@ -30346,6 +30379,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C1711"
+			(at 27.94 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4693c6d0-1e5e-4966-9a28-9d5cc4331fdc")
 		)
@@ -30751,6 +30795,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 73.66 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17471"
 			(at 73.66 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -32316,7 +32371,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -34987,6 +35042,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C17471"
+			(at 71.12 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b6538b54-d40d-451b-89b3-4f5b6f2562ed")
 		)
@@ -35057,6 +35123,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 40.64 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17802"
+			(at 40.64 160.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37476,6 +37553,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 125.73 187.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "625e30a6-c8b5-40de-8a8e-3255ece0746a")
 		)
@@ -38437,6 +38525,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 125.73 185.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ce99be8c-4be5-439c-b0de-a1b833bc4ded")
 		)
@@ -38884,6 +38983,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 125.73 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
+			(at 125.73 190.5 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43191,6 +43301,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C17471"
+			(at 66.04 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "47bc1610-fe43-4695-8f35-134c8cb01a45")
 		)
@@ -43963,6 +44084,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 166.37 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17477"
+			(at 166.37 173.99 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

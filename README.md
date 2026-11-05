@@ -26,3 +26,5 @@ A list of support for Award based boards (that I have tested so far):
 - i810/815: unlikely to run due to incompatible VRM spec, same problems as above
 
 A few select ASUS boards received experimental patched BIOSes, which were kindly provided by Deniz Özmen on his [website](https://oezmen.eu/bios/), though keep in mind your mileage may vary.
+
+For manufacturing, ENIG plating is highly recommended.
